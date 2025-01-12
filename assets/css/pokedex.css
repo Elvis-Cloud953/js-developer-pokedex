@@ -1,3 +1,9 @@
+.pokemon .characteristics {
+    margin-top: 0.5rem;
+    font-size: 0.95rem;
+    color: #ffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
